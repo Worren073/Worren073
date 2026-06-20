@@ -49,5 +49,7 @@ No solo programo con IA, también la integro y la despliego. Tengo experiencia t
 
 Si quieres hablar sobre desarrollo de software, cómo la IA está cambiando las reglas del juego, o simplemente hacer networking científico, ¡escríbeme!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/worren-barrios-3488a1229/)
+<a href="https://www.linkedin.com/in/worren-barrios-3488a1229/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Worren Barrios"/>
+</a>
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:worrenalexanderbz@gmail.com)

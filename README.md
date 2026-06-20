@@ -40,7 +40,7 @@ No solo programo con IA, también la integro y la despliego. Tengo experiencia t
 ⚡ **Mi flujo de trabajo:** Diseño la arquitectura en Docker, entro en el *vibe* con agentes e IA para acelerar el código, y mantengo un control total del versionado con Git.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Worren073&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de GitHub" />
 </p>
 
 ---
